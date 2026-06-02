@@ -1,0 +1,6 @@
+{
+  "name": "Learning Planner",
+  "description": "A sleek, responsive learning planner with a clean aesthetic featuring AI-driven study scheduling, goal tracking, and progress metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
